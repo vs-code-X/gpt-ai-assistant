@@ -1,5 +1,17 @@
 # Changelog
 
+## 4.2.2 (2023-03-08)
+
+### Bug Fixes
+
+- Optimize error handling
+
+## 4.2.1 (2023-03-07)
+
+### Bug Fixes
+
+- Fix `add-mark` util
+
 ## 4.2.0 (2023-03-05)
 
 ### New Features
